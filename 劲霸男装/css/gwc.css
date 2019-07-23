@@ -1,0 +1,471 @@
+.mian{
+	float: left;
+	margin: 0 auto;
+	width: 1530px;
+}
+.q{
+	float: left;
+	width: 1530px;
+	height: 85px;
+	background: #111214;
+}
+
+.w{
+	float: left;
+	width: 500px;
+	height: 85px;
+	
+}
+.w a{
+	font-family: 微软雅黑;
+	font-size: 14px;
+	color: #F6F6F6;
+	text-decoration: none;
+	line-height: 85px;
+	margin-left: 30px;
+}
+.w a:hover{
+	color: firebrick;
+}
+.e{
+	float: left;
+	margin-top: 14px;
+	width: 500px;
+	height: 60px;
+}
+.r{
+	float: left;
+	width: 530px;
+	height: 85px;
+	background-position:350px 26px;
+	background-size: 35px;
+	
+}
+.t a{
+	font-family: 微软雅黑;
+	font-size: 14px;
+	color: #F6F6F6;
+	text-decoration: none;
+	/* line-height: 85px; */
+	margin:0 5px ;
+	
+}
+.t img{
+	vertical-align: middle;
+} 
+.t{
+	float: left;
+	width: 200px;
+	height: 50px;
+	margin: 30px 350px;
+}
+.t a:hover{
+	color:  firebrick;
+}
+.y{
+	float: left;
+	width: 1530px;
+	height: 57px;
+	
+}
+.u{
+	float: left;
+	width: 700px;
+	margin-left:400px;
+	
+	
+}
+.y .u li{
+	float: left;
+	line-height:57px ;
+	text-align: center;
+	margin-left: 80px;
+	font-size: 15px;
+	
+}
+.y a{
+	text-decoration: none;
+	color: black;
+}
+.i{
+	float: left;
+	width: 1530px;
+	height: 350px;
+	background-color: #CCCCCC ;
+	position: relative;
+	z-index: 1;
+	border:  1px solid red;
+	display: none;
+}
+
+
+.i_left{
+	float: left;
+	width: 400px;
+	height: 300px;
+	
+}
+
+.i_left_top{
+	float: left;
+	width: 400px;
+	height: 90px;
+	
+}
+
+.i_left_top h1{
+	border-bottom: 2px solid black;
+	width: 140px;
+	font-weight: normal;
+     margin-top: 25px;
+	 margin-left: 120px;
+	
+}
+
+.i_left_bottom{
+	float: left;
+	width: 400px;
+	height: 210px;
+	
+}
+.a li{
+	font-size: 15px;
+	margin-left:120px ;
+	margin-top: 10px;
+}
+.s{
+	float: left;
+	width: 600px;
+	height: 350px;
+	
+}
+.d{
+	float: left;
+	width: 600px;
+	height: 90px;
+	
+}
+.d h1{
+	border-bottom: 2px solid black;
+	width: 550px;
+	font-weight: normal;
+	 margin-top: 25px;
+	 margin-left: 20px;
+}
+.f{
+	float: left;
+	width: 100px;
+	height: 220px;
+	
+}
+.f li{
+	font-size: 15px;
+	margin-left:20px ;
+	margin-top: 10px;
+}
+.g{
+	float: left;
+	width: 600px;
+	height: 250px;
+
+}
+.h{
+	float: left;
+	width: 100px;
+	height: 220px;
+	
+	margin-left: 100px;
+}
+.h li{
+	font-size: 15px;
+	margin-left:20px ;
+	margin-top: 10px;
+}
+.j{
+	float: left;
+	width: 100px;
+	height: 220px;
+	
+	margin-left: 100px;
+}
+.j li{
+	font-size: 15px;
+	margin-left:20px ;
+	margin-top: 10px;
+}
+.k{
+	float: left;
+	width: 350px;
+	height: 250px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.l{
+	float: left;
+	width: 520px;
+	height: 750px;
+	
+	margin-left: 200px;
+}
+.z{
+	float: left;
+	width: 20px;
+	height: 40px;
+	
+	position:  absolute;
+	top:480px;
+	left: 170px;
+}
+.x{
+	float: left;
+	width: 20px;
+	height: 40px;
+	
+	border-top-: 600px;
+	position:  absolute;
+	top:480px;
+	left: 730px;
+}
+.c{
+	float: left;
+	width: 400px;
+	height: 130px;
+	margin-left: 200px;
+	background-color: #FAFAFA;
+	
+}
+.c p{
+	font-size: 22px;
+	font-weight: lighter;
+}
+.c p~p{
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: -20px;
+}
+.c p~p~p{
+	font-size: 14px;
+	font-weight:lighter ;
+	margin-top: -10px;
+}
+.v{
+	float: left;
+	width: 400px;
+	height: 130px;
+	margin-left: 200px;
+	margin-top: 10px;
+	
+}
+.b{
+	float: left;
+	width: 400px;
+	height: 40px;
+	margin-left: 200px;
+	margin-top: 10px;
+	border: 2px solid #c6c7cb;
+}
+.n{
+	float: left;
+	width: 80px;
+	height: 25px;
+	margin-left: 20px;
+	margin-top: 7px;
+	
+}
+.n a{
+	font-size: 13px;
+	line-height: 25px;
+	text-decoration: none;
+	color: #000000;
+}
+.m{
+	float: left;
+	width: 70px;
+	height: 25px;
+	margin-left: 200px;
+	margin-top: 7px;
+}
+.yc ul li{
+	float: left;
+	margin-top: 20px;
+	margin-right: 40px;
+	color: #C7C7C9;
+	display: none;
+}
+.yc ul li:hover{
+	color: #330000;
+}
+.m a{
+	font-size: 13px;
+	line-height: 25px;
+	text-decoration: none;
+	color: #000000;
+}
+.m img{
+	float: right;
+	margin-right: 30px;
+}
+.gwd{
+	float: left;
+	width: 400px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 200px;
+	
+}
+.ww{
+	float: left;
+	width: 170px;
+	height: 50px;
+	text-align: center;
+	background: rgb(69, 70, 72);
+}
+.ww a{
+	font-size: 20px;
+   line-height: 50px;
+   
+   text-decoration: none;
+   color: white;
+}
+.ee{
+	float: left;
+	width: 170px;
+	height: 50px;
+	text-align: center;
+	margin-left: 50px;
+	background: rgb(208, 188, 131);
+	
+}
+.ee a{
+	font-size: 20px;
+   line-height: 50px;
+   text-decoration: none;
+   color: white;
+}
+.rr{
+	float: left;
+	width: 400px;
+	height: 90px;
+	margin-left: 200px;
+	margin-top: 10px;
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+}
+.tt{
+	float: left;
+	width: 400px;
+	margin-left: 200px;
+	height: 40px;
+	border-bottom: 1px solid #ccc;
+}
+.tt img{
+	float: right;
+	margin-top: -25px;
+}
+.m1{
+	float: left;
+	width: 1530px;
+	background-image: url(../img/jb-4.gif);
+	padding: 100px 0;
+	
+}
+.qqq1{
+	float: left;
+	width: 1100px;
+	height: 280px;
+	
+	margin: 80px 210px;
+}
+.ww1{
+	float: left;
+	width: 130px;
+	height: 230px;
+	
+	margin: 20px 20px;
+}
+.ee1{
+	color: #d0bc83;
+	font-size: 18px;
+}
+.ww1 dd{
+	color: white;
+	font-size: 13px;
+	margin-top: 15px;
+}
+.rr1{
+	float: left;
+	width: 130px;
+	height: 230px;
+	
+	margin: 20px 150px;
+}
+.tt1{
+	color: #d0bc83;
+	font-size: 18px;
+}
+.rr1 dd{
+	color: white;
+	font-size: 13px;
+	margin-top: 15px;
+}
+.yy1{
+	float: left;
+	width: 130px;
+	height: 230px;
+	
+	margin: 20px 0px;
+}
+.uu1{
+	color: #d0bc83;
+	font-size: 18px;
+}
+.yy1 dd{
+	color: white;
+	font-size: 13px;
+	margin-top: 15px;
+}
+.ii1{
+	float: left;
+	width: 130px;
+	height: 230px;
+	
+	margin: 20px 110px;
+}
+.oo1{
+	color: #d0bc83;
+	font-size: 18px;
+}
+.ii1 dd{
+	color: white;
+	font-size: 13px;
+	margin-top: 15px;
+}
+.pp1{
+	float: left;
+	width: 600px;
+	height: 80px;
+
+	margin-left: 250px;
+}
+.pp1 li{
+	font-family: 微软雅黑;
+	font-size: 13px;
+	color: white;
+	line-height: 30px;
+	text-align: center;
+}
+.pp1 img{
+	vertical-align: middle;
+}
+
+.erweima1{
+	float: left;
+	width: 120px;
+	height: 140px;
+	display: none; 
+}
+
+ .add{
+	width:400px;
+	height:130px;
+} 

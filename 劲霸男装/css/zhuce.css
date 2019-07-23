@@ -1,0 +1,188 @@
+.mian{
+	float: left;
+	margin: 0 auto;
+	width: 1525px;
+	/* background-color:#f6f6f6 ; */
+}
+.q{
+	float: left;
+	width: 1525px;
+	height: 85px;
+	background: #111214;
+	
+}
+
+.w{
+	float: left;
+	width: 500px;
+	height: 85px;
+	
+}
+.w a{
+	font-family: 微软雅黑;
+	font-size: 14px;
+	color: #F6F6F6;
+	text-decoration: none;
+	line-height: 85px;
+	margin-left: 30px;
+}
+.w a:hover{
+	color: firebrick;
+}
+.e{
+	float: left;
+	margin-top: 14px;
+	width: 500px;
+	height: 60px;
+}
+.r{
+	float: left;
+	width: 500px;
+	height: 85px;
+	background-position:350px 26px;
+	background-size: 35px;
+	
+}
+.t a{
+	font-family: 微软雅黑;
+	font-size: 14px;
+	color: #F6F6F6;
+	text-decoration: none;
+	/* line-height: 85px; */
+	margin-left: 15px;
+	
+	
+}
+.t img{
+	vertical-align: middle;
+} 
+.t{
+	float: left;
+	width: 300px;
+	height: 50px;
+	margin-left: 200px;
+	margin-top: 20px;
+}
+.t a:hover{
+	color:  firebrick;
+}
+.y{
+	float: left;
+	width: 1525px;
+	height: 400px;
+	
+	margin-top: 120px;
+}
+.u{
+	margin: 0 auto;
+	width: 700px;
+	height: 50px;
+	border-bottom: 3px solid #c6c7ca;
+}
+.u span{
+	font-size: 22px;
+	color: #000000;
+	line-height: 50px;
+	margin-left: -25px;	
+}
+.i{
+	float: left;
+	width: 350px;
+	height: 330px;
+	margin-top:55px ;
+	border-right:3px solid #c6c7ca;
+}
+.o{
+	float: left;
+	width: 280px;
+	height: 100px;
+	margin-top:40px ;
+	
+}
+
+.o input{
+
+	width: 243px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 14px;
+    color: #333;
+}
+.o p{
+	font-size: 14px;
+}
+.dx{
+	margin-left: -100px;
+}
+.p{
+	float: left;
+	width: 100px;
+	height: 30px;
+	
+	text-align: center;
+}
+
+
+.p span{
+	line-height: 30px;
+	
+}
+.p a{
+	line-height: 30px;
+	text-decoration: none;
+	color: #000000;
+}
+.a{
+	float: left;
+	width: 150px;
+	height: 40px;
+	
+	border-radius: 10%;
+	margin-left: 30px;
+	margin-top: 10px;
+	background-color: #d0bc83;
+	text-align: center;
+	line-height: 40px;
+}
+.a a{
+	font-size: 18px;
+	color: white;
+	text-decoration: none;
+}
+.s{
+	float: left;
+	width: 270px;
+	height: 300px;
+	border: 1px solid white;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+h4{
+	font-size: 24px;
+}
+.s span{
+	font-size: 16px;
+	margin-left: 0px;
+}
+ .s ul li{
+	list-style:disc;
+	margin-left: 20px;
+	font-size: 16px;
+}
+.zhuce{
+	float: left;
+	width: 150px;
+	height: 40px;
+	border: 1px solid black;
+	border-radius: 10%;
+	margin-left: 30px;
+	margin-top: 10px;
+	background-color: white;
+	text-align: center;
+	line-height: 40px;
+	
+}
+.zhuce a{
+	text-decoration: none;
+	font-size: 18px;
+}
