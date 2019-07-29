@@ -194,6 +194,7 @@
 	margin-top: 10px;
 }
 .k{
+	
 	float: left;
 	width: 350px;
 	height: 250px;
@@ -201,10 +202,12 @@
 	margin-left: 50px;
 }
 .l{
+	background-image: url(../img/gwc1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 	float: left;
 	width: 520px;
 	height: 750px;
-	
 	margin-left: 200px;
 }
 .z{

@@ -21,7 +21,7 @@
 				</div>
 				<div class="r">
 					<div class="t">
-					<a href="">登录</a>
+					<a href="zhuce.html">登录</a>
 					<a href=""><img  src="img/QQ截图20190705113253.png" width="40" height="30"></a>
 					<a href=""><img src="img/QQ截图20190705113327.png" width="30" height="30"></a>
 					<a href=""><img src="img/QQ截图20190705113336.png" width="30" height="30"></a>
@@ -89,7 +89,6 @@
 				</div>
 				</div>
 				<div class="l">
-					<img src="img/gwc1.jpg" width= "520px" height= "750px">
 				</div>
 				<div class="z">
 					<img src="img/zuo.gif" width= "20px" height= "40px" >
@@ -198,5 +197,29 @@
 				</div>
 				</div>
 			</div>
+			<script src="js/jquery-1.12.4.js" type="text/javascript" charset="utf-8"></script>
+			<script type="text/javascript">
+				$(function(){
+					var i=0;
+					$(".z").click(function(){
+						i--;
+						if(i<0){
+							i=5;
+						}
+						$(".l").css("background-image","url('img/gwc"+(i+1)+".jpg')");
+						$(".l").css("background-repeat","no-repeat");
+						$(".l").css("background-size","cover");
+					})
+					$(".x").click(function(){
+						i++;
+						if(i>5){
+							i=0;
+						}
+						$(".l").css("background-image","url('img/gwc"+(i+1)+".jpg')");
+						$(".l").css("background-repeat","no-repeat");
+						$(".l").css("background-size","cover");
+					})
+				})
+			</script>
 	</body>
 </html>

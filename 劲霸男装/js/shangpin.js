@@ -8,6 +8,7 @@ $(document).ready(function(){
 	})
 	
 })
+
  $(document).ready(function(){
  	$(".x").hover(function(){
 		$(".c").toggle();
@@ -16,6 +17,8 @@ $(document).ready(function(){
 		$(".c").toggle();
 	})
  })
+ 
+ 
  $(document).ready(function(){
  	$(".erweima").mouseover(function(){
  		 $(".erweima1").show(500);
@@ -24,11 +27,32 @@ $(document).ready(function(){
  		$(".erweima1").hide(500);
  	})
  })
- $(document).ready(function(){
-	$(".pp img").mouseover(function(){
-	$(this).attr("src","http://image.k-boxing.com/upload/goods/CTCD2419-0292(1)_15558974855713.jpg")
-	})
-	$(".pp img").mouseout(function(){
-	$(this).attr("src","img/shangpin1.jpg")
-	})
-})
+ 
+ 
+ $(function(){
+	 $(".pp img").mouseover(function(){
+	 $(this).attr("src","http://image.k-boxing.com/upload/goods/CTCD2419-0292(1)_15558974855713.jpg")
+	 })
+	 $(".pp img").mouseout(function(){
+	 $(this).attr("src","img/shangpin1.jpg")
+	 });
+	 
+	
+ });
+
+	
+	$(function(){	
+		 $(".paix").hide(); 
+		 $(".z").mouseover(function(){
+		 	 $(".paix").show();
+		 })
+		 $(".z").mouseout(function(){
+		 	$(".paix").hide();
+		 })	
+		 $(".paix").mouseover(function(){
+		 	 $(".paix").show();
+		 })
+		 $(".paix").mouseout(function(){
+		 	$(".paix").hide();
+		 })	
+	}) 
